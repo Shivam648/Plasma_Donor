@@ -1,0 +1,59 @@
+body{
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+h1 {text-align: center;
+      color:black;
+      font-size: 50px;
+      font-family: fantasy;
+  }
+h4 {text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {text-align: center;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form-container
+{
+  width: 450px;
+  height: auto;
+  padding: 45px 35px;
+  background-color: #ff99cc;
+  border-radius: 15px;
+  box-shadow: 0 0 10px 0 #000;
+  margin: auto;
+  position: -webkit-sticky;
+  margin-top: 100px;
+}
+  /* Bordered form */
+form {
+  border: 3px solid #f1f1f1;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #ff0f0f;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+
+@media screen and (max-width: 640px){
+.form-container
+{
+  width: 340px;
+  height: auto;
+}
+}
