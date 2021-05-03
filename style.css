@@ -1,13 +1,14 @@
 body{
   height: 100%;
   background-image: url("svg/Web-Header-Background.svg");
- 
 }
-h1 {text-align: center;
-      color:black;
-      font-size: 50px;
-      font-family: fantasy;
-  }
+h1 {
+  padding-top: 20px;
+  text-align: center;
+  color:black;
+  font-size: 50px;
+  font-family: fantasy;
+}
 h4 {text-align: center;
     color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
