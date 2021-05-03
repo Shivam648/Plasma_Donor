@@ -1,5 +1,7 @@
 body{
-  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  height: 100%;
+  background-image: url("svg/Web-Header-Background.svg");
+ 
 }
 h1 {text-align: center;
       color:black;
