@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Register Form</title>
+</head>
+<style type="text/css">
+  body{
+    height: 100%;
+    background-image: url("svg/Web-Header-Background.svg");
+  }
+  .tab{
+    padding-top: 20px;
+    padding-left: 25%;
+    background-color:transparent;
+  }
+  table{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    border-radius: 5px;
+    border:3px solid black;
+    box-shadow: 0 0 10px 0 #000;
+    width:  580px;
+    height:   480px;
+  }
+h1{
+ align-items: center;
+}
+@media (max-width: 640px){
+.tab{
+    padding-top: 50px;
+    padding-left: 20%;
+    }
+    table{
+    width:  300px;
+    height:   260px;
+  }
+  h1{
+ padding-left:0%;
+}
+}
+
+</style>
+<body>
+ <form action="insert.php" method="POST">
+  <div class="tab">
+  <h1> Plasma Donor Registration Form</h1>
+
+  <table>
+   <tr>
+    <td>Did you ever get Covid-19?</td>
+  </tr>
+    <tr>
+    <td>Select:</td>
+    <td>
+     <input type="radio" name="choose" value="y" required>Yes
+     <input type="radio" name="choose" value="n" required>No
+    </td>
+   </tr>
+
+    <tr>
+    <td>Your blood group:</td>
+    <td><input type="text" name="bgroup" placeholder="Blood group" required></td>
+   </tr>
+   <tr>
+    <td>Gender :</td>
+    <td>
+     <input type="radio" name="gender" value="m" required>Male
+     <input type="radio" name="gender" value="f" required>Female
+     <input type="radio" name="gender" value="o" required>other
+    </td>
+   </tr>
+   <tr>
+    <td>Name :</td>
+    <td><input type="text" name="username" placeholder="Your name" required></td>
+   </tr>
+   <tr>
+    <td>Email :</td>
+    <td><input type="email" name="email" placeholder="Email id" required></td>
+   </tr> 
+   
+   <tr>
+    <td>Address :</td>
+    <td><input type="text" name="address" placeholder="Address" required></td>
+   </tr> 
+   <tr>
+    <td>City:</td>
+    <td><input type="text" name="city" placeholder="City" required></td>
+   </tr>
+   <tr>
+    <td>Date of Screening:</td>
+    <td><input type="date" name="date1" placeholder="Date of Screening" required></td>
+   </tr>
+   <tr>
+    <td>Age:</td>
+    <td><input type="text" name="age"placeholder="Age" required></td>
+   </tr>
+    
+   <tr>
+    <td>Phone no :</td>
+    <td>
+     <input type="phone" name="phone" placeholder="Phone no" required>
+    </td>
+   </tr>
+   <tr>
+    <td>Alternate Phone no :</td>
+    <td>
+     <input type="phone" name="aphone" placeholder="Alternate phone no"required>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <td><input type="submit" value="Submit" name="submit"></td>
+   </tr>
+  </table>
+</div>
+ </form>
+</body>
+</html>
