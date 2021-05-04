@@ -1,5 +1,31 @@
+body{
+    height: 100%;
+    background-image: url("svg/Web-Header-Background.svg");
+}
+
 .jumbotron {
     margin: 0px auto;
-    padding: 70px 30px;
-    background: #33ccff
+    background: transparent;
+  }
+  h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: fantasy;
+    }
+  span {
+	color: rgb(34, 243, 208);
+}
+.breadcrumb-item{
+    background-color: turquoise;
+    padding: 10px;
+}
+ blockquote{
+     background-color: turquoise;
+     padding: 10px;
+ }
+ footer{
+    padding: 0 20px;
+    text-align: center;
+    background-color: tomato;
   }
