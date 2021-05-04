@@ -57,11 +57,18 @@ button:hover {
   opacity: 0.8;
 }
 
+footer{
+  padding: 0 20px;
+  background-color: tomato;
+}
 
 @media screen and (max-width: 640px){
 .form-container
 {
   width: 340px;
   height: auto;
+}
+body{
+  height: 100%;
 }
 }
