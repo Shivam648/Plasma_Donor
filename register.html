@@ -38,13 +38,116 @@
             <li> I am healthy and feeling excited to donate plasma.</li>
             <li> I am between 18-60 years of age.</li>
         </ul>
-
+        
+        
         <div class="col-12 col-sm-3 align-self-center">
-            <a href="#" class="btn btn-warning btn-lg" data-toggle="tooltip" data-html="true" title="Or Call us at  &lt;br&gt;&lt;strong&gt;+852 12345678&lt;/strong&gt;" data-placement="bottom" role="button">Click to Register</a>
+            <!-----<a role="button" class="btn btn-block nav-link btn-warning" data-toggle="tooltip" data-html="true" title="Or call us at <br><strong>+91 7563856195</strong>" data-placemen="bottom" href="index.html">Reserve Table</a>------>
+            <a id="reserve" class="btn btn-warning btn-lg" data-toggle="tooltip" data-html="true" title="Or Call us at  &lt;br&gt;&lt;strong&gt;+852 12345678&lt;/strong&gt;" data-placement="bottom" role="button">Click to Register</a>
         </div>
-     
-       
+        
+        <div id="reservemodal" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg" role="content">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title">Donor Registration Form</h2>
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="form-row">
+                                <dd class="col-md-2 col-sm-12">Did you ever get Covid?</dd>
+                                <dd class="col-md-10 col-sm-12">
+                                    <div class="form-check-inline">
+                                        <input class="form-check-input" type="radio" name="op" id="op" value="Yes">
+                                        <label class="form-check-label">Yes</label>
+                                    </div>
+                                    <div class="form-check-inline">
+                                        <input class="form-check-input" type="radio" name="op" id="op" value="No">
+                                        <label class="form-check-label">No</label>
+                                    </div>
+                                </dd>        
+                            </div>
+                            <div class="form-row">
+                            <dd class="col-md-2 col-sm-12">Sex</dd>
+                            <dd class="col-md-10 col-sm-12">
+                                <div class="form-check-inline">
+                                    <input class="form-check-input" type="radio" name="p" id="p" value="male">
+                                    <label class="form-check-label">Male</label>
+                                </div>
+                                <div class="form-check-inline">
+                                    <input class="form-check-input" type="radio" name="p" id="p" value="female">
+                                    <label class="form-check-label">Female</label>
+                                </div>
+                                <div class="form-check-inline">
+                                    <input class="form-check-input" type="radio" name="p" id="p" value="other">
+                                    <label class="form-check-label">Other</label>
+                                </div>
+                            </dd>
+                            </div>
+                            <div class="form-group row">
+                                <label for="firstname" class="col-md-2 col-form-label">First Name</label>
+                                <div class="col-md-10">
+                                    <input type="text" class="form-control" id="firstname" name="firstname" placeholder="First Name">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="firstname" class="col-md-2 col-form-label">Last Name</label>
+                                <div class="col-md-10">
+                                    <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Last Name">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="firstname" class="col-md-2 col-form-label">Age</label>
+                                <div class="col-md-10">
+                                    <input type="text" class="form-control" id="age" name="age" placeholder="age">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="emailid" class="col-md-2 col-form-label">Email</label>
+                                <div class="col-md-10">
+                                    <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="feedback" class="col-md-2 col-form-label">Address</label>
+                                <div class="col-md-10">
+                                    <textarea class="form-control" id="address" name="address" rows="3"></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="emailid" class="col-md-2 col-form-label">City</label>
+                                <div class="col-md-10">
+                                    <input type="city" class="form-control" id="city" name="city" placeholder="City">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-12 col-sm-2">Date of Screening</label>
+                                <div class="col-12 col-sm-4">
+                                  <input type="date" class="selectpicker countrypicker" name="date" id="date">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="emailid" class="col-md-2 col-form-label">Blood Group</label>
+                                <div class="col-md-10">
+                                    <input type="group" class="form-control" id="group" name="group" placeholder="Blood Group">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <dd class="col-md-2 col-sm-12"></dd>
+                                <dd class="col-md-10 col-sm-12">
+                                    <button type="button" class="btn btn-secondary btn-sm ml-auto" data-dismiss="modal">Cancel</button>
+                                    <button type="submit" class="btn btn-primary btn-sm ml-1">Submit</button> 
+                                </dd>       
+                            </div>
+                        </form>
+                    </div>
+                </div>-------->
+            </div>
+        </div>
+    
     </div>
+
     <script src="jquery.slim.min.js"></script>
         <script src="bootstrap.min.js"></script>
         <script src="js/script.js">
