@@ -25,3 +25,6 @@ We are working on it :shipit:
 <p>The main goal of our project is to make it easier for the COVID-19 patients of BIHAR to get a plasma donor easily and as soon as possible as it is too much difficult to find a plasma donor. In most of the case, it has seen that COVID-19 patients look for plasma in facebook group or just by posting randomly which in some case is not helpful. Here our project will help the patient to find a donor fast when they need.</p>
 
 <h1>Work Flow</h1>
+
+<p>The person who wants to donate his/her plasma need to register and create his/her profile first in our application providing required information which are name, blood group, phone number and address.</p>
+<p>Patients who need plasma also need to create account, register his/her required information. Just because we also have the data of the Patients.</p>
