@@ -23,3 +23,5 @@ We are working on it :shipit:
 <h1>Project Goal</h1>
 
 <p>The main goal of our project is to make it easier for the COVID-19 patients of BIHAR to get a plasma donor easily and as soon as possible as it is too much difficult to find a plasma donor. In most of the case, it has seen that COVID-19 patients look for plasma in facebook group or just by posting randomly which in some case is not helpful. Here our project will help the patient to find a donor fast when they need.</p>
+
+<h1>Work Flow</h1>
