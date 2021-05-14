@@ -28,3 +28,5 @@ We are working on it :shipit:
 
 <p>The person who wants to donate his/her plasma need to register and create his/her profile first in our application providing required information which are name, blood group, phone number and address.<br>
 Patients who need plasma also need to create account, register his/her required information.</p>
+
+<img src="donor.gif" height="600" width="auto">
