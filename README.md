@@ -29,3 +29,12 @@ If you want to share any kind of suggestions to improve our work please let us k
 Patients who need plasma also need to create account, register his/her required information.</p>
 
 <img src="donor.gif" height="600" width="auto">
+
+<h1>Contribyters</h1>
+
+<table>
+  <tr>
+   <td align="center"><a href="#"><img src="#" width="100px;" alt=""/><br /><sub><b>Shivam Jaiswal</b></sub></a><br /><a href="#" title="Frontend">🤩</a><a href="#" title="Code">:computer:</a></td>
+    <td align="center"><a href="#"><img src="#" width="100px;" alt=""/><br /><sub><b>Sonu Kumar</b></sub></a><br /><a href="#" title="Backend">🤔</a><a href="#" title="Wireframing">🦴</a><a href="#" title="Documentation">:book:</a></td>
+  </tr>
+  </table>
