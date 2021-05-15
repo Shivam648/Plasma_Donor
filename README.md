@@ -30,7 +30,7 @@ Patients who need plasma also need to create account, register his/her required 
 
 <img src="donor.gif" height="600" width="auto">
 
-<h1>Contribyters</h1>
+<h1>Contributers</h1>
 
 <table>
   <tr>
