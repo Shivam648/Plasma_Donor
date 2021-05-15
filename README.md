@@ -31,7 +31,7 @@ Patients who need plasma also need to create account, register his/her required 
 
 <table>
   <tr>
-   <td align="center"><a href="#"><img src="svg/shivam.jpg" width="100px;" alt=""/><br/><sub><b>Shivam Jaiswal</b></sub></a><br/><sub><b>Frontend</b></sub></td>
+   <td align="center"><a href="https://shivam648.github.io/Shivam_Portfolio/"><img src="svg/shivam.jpg" width="100px;" alt=""/><br/><sub><b>Shivam Jaiswal</b></sub></a><br/><sub><b>Frontend</b></sub></td>
     <td align="center"><a href="#"><img src="svg/1609855353367.jpg" width="100px;" alt=""/><br/><sub><b>Sonu Kumar</b></sub></a><br/><sub><b>Backend</b></sub></td>
   </tr>
   </table>
