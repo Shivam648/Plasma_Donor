@@ -27,7 +27,7 @@ Patients who need plasma also need to create account, register his/her required 
 
 <img src="donor.gif" height="600" width="auto">
 
-<h1>Contributers</h1>
+<h1>Contributers :two_men_holding_hands:</h1> 
 
 <table>
   <tr>
@@ -35,3 +35,6 @@ Patients who need plasma also need to create account, register his/her required 
     <td align="center"><a href="#"><img src="svg/1609855353367.jpg" width="100px;" alt=""/><br/><sub><b>Sonu Kumar</b></sub></a><br/><sub><b>Backend</b></sub></td>
   </tr>
   </table>
+  
+  If you want to share any kind of suggestions to improve our work please let us know by creating an issue [here](https://github.com/Shivam648/Plasma_Donor/issues)
+
