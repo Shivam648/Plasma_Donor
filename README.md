@@ -3,9 +3,6 @@
 ```diff 
 + Under  Construction 
 ``` 
-If you want to share any kind of suggestions to improve our work please let us know by creating an issue [here](https://github.com/Shivam648/Plasma_Donor/issues)
-:two_men_holding_hands:
-
 <img src="Donor1.gif" height="600" width="auto">
 <!----![alt text](B1.jpg)---->
 <h1>Hey..! 🧑‍⚕️ </h1>
