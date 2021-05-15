@@ -4,9 +4,10 @@
 
 + Under  Construction
 
+- If you want to share any kind of suggestions to improve our work please let us know by creating an issue
+
 ```
 :two_men_holding_hands:
-We are working on it :shipit:
 
 <img src="Donor1.gif" height="600" width="auto">
 <!----![alt text](B1.jpg)---->
