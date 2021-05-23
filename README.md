@@ -25,8 +25,8 @@
 <p>The person who wants to donate his/her plasma need to register and create his/her profile first in our application providing required information which are name, blood group, phone number and address.<br>
 Patients who need plasma also need to create account, register his/her required information.</p>
 
-<h1>Languages</h1>
-
+<h1>Technologies Used</h1>
+For backend
 - HTML
 - CSS
 - Bootstrap
