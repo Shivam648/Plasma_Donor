@@ -26,11 +26,14 @@
 Patients who need plasma also need to create account, register his/her required information.</p>
 
 <h1>Technologies Used</h1>
-For backend
+<h6>Frontend</h6>
+
 - HTML
 - CSS
 - Bootstrap
 - NodeJS
+
+<h6>Backend</h6>
 - Php
 - MySQL
 <br>
